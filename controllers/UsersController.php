@@ -1,7 +1,7 @@
 <?php
 
 
-class UsersController{
+class UsersController extends User{
       public function index(){
           require_once ('views/users/index.php');
       }

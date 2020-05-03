@@ -1,4 +1,7 @@
 <?php
+  require_once ('models/database/DB.php');
+  require_once ('models/user.php');
+
 
    $controller=isset($_REQUEST['clase']) ? $_REQUEST['clase']: 'Users';
    $method=isset($_REQUEST['method']) ? $_REQUEST['method']: 'index';

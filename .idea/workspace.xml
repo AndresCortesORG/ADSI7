@@ -1,7 +1,14 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="f1762099-e7c8-4727-b42f-f5a73bbba28e" name="Default Changelist" comment="" />
+    <list default="true" id="f1762099-e7c8-4727-b42f-f5a73bbba28e" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/models/database/DB.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/controllers/UsersController.php" beforeDir="false" afterPath="$PROJECT_DIR$/controllers/UsersController.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/index.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/models/user.php" beforeDir="false" afterPath="$PROJECT_DIR$/models/user.php" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/views/users/index.php" beforeDir="false" afterPath="$PROJECT_DIR$/views/users/index.php" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -10,7 +17,11 @@
   <component name="ComposerSettings">
     <execution />
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1bMaSVB8DKm3phj2AqoHK1st76y" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -32,7 +43,9 @@
       <option name="presentableId" value="Default" />
       <updated>1588444415746</updated>
       <workItem from="1588444420346" duration="17000" />
-      <workItem from="1588444438886" duration="3972000" />
+      <workItem from="1588444438886" duration="6270000" />
+      <workItem from="1588518266851" duration="274000" />
+      <workItem from="1588520484166" duration="2376000" />
     </task>
     <servers />
   </component>
@@ -40,6 +53,10 @@
     <option name="version" value="2" />
   </component>
   <component name="WindowStateProjectService">
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog" timestamp="1588522857391">
+      <screen x="0" y="0" width="1366" height="738" />
+    </state>
+    <state x="413" y="116" key="#com.intellij.refactoring.safeDelete.UnsafeUsagesDialog/0.0.1366.738@0.0.1366.738" timestamp="1588522857391" />
     <state x="463" y="124" key="FileChooserDialogImpl" timestamp="1588444436079">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
@@ -48,9 +65,9 @@
       <screen x="0" y="0" width="1366" height="738" />
     </state>
     <state x="511" y="92" key="NewPhpClassDialog/0.0.1366.738@0.0.1366.738" timestamp="1588444465963" />
-    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1588446556207">
+    <state x="518" y="292" key="NewPhpFileDialog" timestamp="1588522327699">
       <screen x="0" y="0" width="1366" height="738" />
     </state>
-    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1588446556207" />
+    <state x="518" y="292" key="NewPhpFileDialog/0.0.1366.738@0.0.1366.738" timestamp="1588522327699" />
   </component>
 </project>

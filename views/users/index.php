@@ -10,6 +10,7 @@
     <title>Document</title>
 </head>
 <body>
+
 <div class="container">
     <div class="row">
         <div class="col-md-12">
@@ -24,6 +25,17 @@
                             <th>OPCIONES</th>
                         </tr>
                         </thead>
+                  <?php   foreach (parent::get_all() as $result){ ?>
+                        <tbody>
+                        <tr>
+                            <td><?php  echo $result->names ?></td>
+                            <td><?php echo $result->lastnames ?></td>
+                            <td><?php echo $result->email ?></td>
+                            <td><?php echo $result->password ?></td>
+
+                        </tr>
+                        </tbody>
+                  <?php   } ?>
                     </table>
                     <a href="?clase=Users&method=create">Crear nuevo usuario</a>
                 </div>
